@@ -1,0 +1,43 @@
+<body>
+    <header class="header">
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1>Experience Yellowstone</h1>
+                <hr>
+                <h3>Luxury Glamping in Paradise Valley</h3>
+                <br>
+                <div class="dropdown">
+                    <button onclick="myFunction('myDropdown')" class="dropbtn">Book Now</button>
+                    <div id="myDropdown" class="dropdown-content">
+                      <a href="https://myrentals.holidayfuture.com/listings/102413" target="_blank" rel="noopener noreferrer">Dome 1</a>
+                      <a href="https://myrentals.holidayfuture.com/listings/93258" target="_blank" rel="noopener noreferrer">Dome 2</a>
+                      <a href="https://myrentals.holidayfuture.com/listings/93262" target="_blank" rel="noopener noreferrer">Dome 3</a>
+                      <a href="https://myrentals.holidayfuture.com/listings/93257" target="_blank" rel="noopener noreferrer">Dome 4</a>
+                    </div>
+                </div>
+                <!--<a href="https://www.airbnb.com/users/show/422424988" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-xl page-scroll">Book Now</a>-->
+            </div>
+            <html>
+        </div>
+    </header>
+</body>
+
+<script>
+    function myFunction(opt) {
+      document.getElementById(opt).classList.toggle("show");
+    }
+    
+    // Close the dropdown menu if the user clicks outside of it
+    window.onclick = function(event) {
+      if (!event.target.matches('.dropbtn')) {
+        var dropdowns = document.getElementsByClassName("dropdown-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains('show')) {
+            openDropdown.classList.remove('show');
+          }
+        }
+      }
+    }
+</script>

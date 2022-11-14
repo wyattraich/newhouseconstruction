@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TH5MS3L"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+  {% include nav.html %}
+  {% include header.html %}
+  {% include domes.html %}
+  {% include reviews.html %}
+  {% include location.html %}
+  {% include ToDo.html %}
+  <!--{% include portfolio.html %}-->
+  <!--{% include aside.html %}-->
+  {% include about.html %}
+  {% include contact.html %}
+  {% include scripts.html %}
+</body>
+
+</html>
+
+<script>
+  //Array of images which you want to show: Use path you want.
+  var images=new Array('img/domes-10.jpg','img/domes-35.jpg','img/inside_panorama.webp','img/domes-7.jpg','img/doubleAA.webp','img/domes-17.jpg');
+  var nextimage=0;
+  doSlideshow();
+  
+  function doSlideshow(){
+      if(nextimage>=images.length){nextimage=0;}
+      $('.header')
+      .css('background-image','url("'+images[nextimage++]+'")')
+      .fadeIn(3000,function(){
+          setTimeout(doSlideshow,5000);
+      });
+  }
+</script>

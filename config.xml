@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showThumbsButton="true"
+	showOpenButton="true"
+	indexPageName="indexGalleryJuiceBox.html"
+	backgroundColor="rgba(34,34,34,0)"
+	textColor="rgba(255,255,255,0)"
+	galleryHeight="70%"
+
+>
+  <image imageURL="images/domes-34.jpg"
+	thumbURL="thumbs/domes-34.jpg"
+	linkURL="images/domes-34.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/domes-34.jpg">
+  <image imageURL="images/domes-15.jpg"
+	thumbURL="thumbs/domes-15.jpg"
+	linkURL="images/domes-15.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/images/domes-15.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/inside_panorama.jpg"
+	thumbURL="thumbs/inside_panorama.jpg"
+	linkURL="images/inside_panorama.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/inside_panorama.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/full_kitchen.jpg"
+	thumbURL="thumbs/full_kitchen.jpg"
+	linkURL="images/full_kitchen.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/full_kitchen.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/kitchen_up_close.jpg"
+	thumbURL="thumbs/kitchen_up_close.jpg"
+	linkURL="images/kitchen_up_close.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/kitchen_up_close.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/insie_panorama_lights.jpg"
+	thumbURL="thumbs/insie_panorama_lights.jpg"
+	linkURL="images/inside_panorama_lights.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/insie_panorama_lights.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bath_kitchen.jpg"
+	thumbURL="thumbs/bath_kitchen.jpg"
+	linkURL="images/bath_kitchen.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/bath_kitchen.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bath1.jpg"
+	thumbURL="thumbs/bath1.jpg"
+	linkURL="images/bath1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/bath1.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bath2.jpg"
+	thumbURL="thumbs/bath2.jpg"
+	linkURL="images/bath2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/bath2.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-31.jpg"
+	thumbURL="thumbs/domes-31.jpg"
+	linkURL="images/domes-31.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/domes-31.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/view.jpg"
+	thumbURL="thumbs/view.jpg"
+	linkURL="images/view.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/view.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-35.jpg"
+	thumbURL="thumbs/domes-35.jpg"
+	linkURL="images/domes-35.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/domes-35.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/outside.jpg"
+	thumbURL="thumbs/outside.jpg"
+	linkURL="images/outside.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/outside.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-6.jpg"
+	thumbURL="thumbs/domes-6.jpg"
+	linkURL="images/domes-6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/images/domes-6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-10.jpg"
+	thumbURL="thumbs/domes-10.jpg"
+	linkURL="images/domes-10.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/domes-10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/welcome.jpg"
+	thumbURL="thumbs/welcome.jpg"
+	linkURL="images/welcome.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/welcome.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-48.jpg"
+	thumbURL="thumbs/domes-48.jpg"
+	linkURL="images/domes-48.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/domes-48.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-7.jpg"
+	thumbURL="thumbs/domes-7.jpg"
+	linkURL="images/domes-7.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/domes-7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-27.jpg"
+	thumbURL="thumbs/domes-27.jpg"
+	linkURL="images/domes-27.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/domes-27.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-8.jpg"
+	thumbURL="thumbs/domes-8.jpg"
+	linkURL="images/domes-8.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/img/domes-8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-49.jpg"
+	thumbURL="thumbs/domes-49.jpg"
+	linkURL="images/domes-49.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/Pitch/PitchWebsite/creative-theme-jekyll/images/domes-49.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-17.jpg"
+	thumbURL="thumbs/domes-17.jpg"
+	linkURL="images/domes-17.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/domes-17.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-23.jpg"
+	thumbURL="thumbs/domes-23.jpg"
+	linkURL="images/domes-23.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/domes-23.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-14.jpg"
+	thumbURL="thumbs/domes-14.jpg"
+	linkURL="images/domes-14.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/domes-14.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domes-22.jpg"
+	thumbURL="thumbs/domes-22.jpg"
+	linkURL="images/domes-22.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/domes-22.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

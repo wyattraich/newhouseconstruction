@@ -1,0 +1,15 @@
+# Site settings
+title: Pitch Yellowstone
+email: 
+description: Luxury Glamping Hotel in Paradise Valley
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+
+plugins:
+- jekyll-seo-tag
