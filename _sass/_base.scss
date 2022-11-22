@@ -42,11 +42,13 @@ a {
 
 h1,
 h2,
-h3,
+h3 {
+    font-weight: 350;
+}
 h4,
 h5,
 h6 {
-    @include new-spirit-font;
+    @include serif-font;
     
 }
 
@@ -69,7 +71,17 @@ p {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/background.webp');
+    background-color: #ffffff;
+}
+
+.bg-primary-color {
+    //background-color: $theme-primary;
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    @include background-cover;
+    background-position: center;
+    background-color: #f0f0f0;
 }
 
 .bg-location{
@@ -125,12 +137,13 @@ aside {
 .navbar-default {
     background-color: white;
     border-color: rgba($theme-dark, .5);
-    @include new-spirit-font;
+    @include serif-font;
     @include transition-all;
     .navbar-header .navbar-brand {
         color: $theme-dark;
-        @include new-spirit-font;
-        font-weight: 600;
+        @include serif-font;
+        text-transform: uppercase;
+        font-weight: 400;
         &:hover,
         &:focus {
             color: darken($theme-green, 10%);
@@ -141,7 +154,7 @@ aside {
             > a,
             > a:focus {
                 text-transform: uppercase;
-                font-weight: 700;
+                font-weight: 400;
                 font-size: 14px;
                 color: $theme-dark;
                 &:hover {
@@ -160,8 +173,9 @@ aside {
             }
         }
     }
+    
     @media (min-width: 768px) {
-        background-color: transparent;
+        background-color: rgba(255, 255, 255, 0.833);
         border-color: rgba($theme-dark, .3);
         .navbar-header .navbar-brand {
             color: rgba($theme-dark, .7);
@@ -218,7 +232,7 @@ header {
         width: 100%;
         .header-content-inner {
             h1 {
-                font-weight: 700;
+                font-weight: 30;
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
@@ -227,7 +241,7 @@ header {
                 margin: 30px auto;
             }
             p {
-                font-weight: 300;
+                font-weight: 200;
                 color: rgba(white, .7);
                 font-size: 16px;
                 margin-bottom: 50px;
@@ -361,10 +375,10 @@ header {
 }
 
 .btn {
-    @include new-spirit-font;
+    @include serif-font;
     border: none;
     border-radius: 300px;
-    font-weight: 700;
+    font-weight: 100;
     text-transform: uppercase;
 }
 
@@ -521,9 +535,9 @@ body {
     color: white;
     padding: 16px;
     font-size: 14px;
-    border-radius: 300px;
+    border-radius: 5px;
     border: none;
-    font-weight: 700;
+    font-weight: 400;
     cursor: pointer;
   }
 
@@ -539,7 +553,7 @@ body {
     display: none;
     position: left;
     background-color: #f1f1f1;
-    border-radius: 20px;
+    border-radius: 5px;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -554,7 +568,7 @@ body {
   }
   
   /* Change color of dropdown links on hover */
-  .dropdown-content a:hover {background-color: #ddd; border-radius: 20px;}
+  .dropdown-content a:hover {background-color: #ddd; border-radius: 5px;}
   
   /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
   .show {display:block;}
