@@ -20,6 +20,23 @@
     <title><![CDATA[home1]]></title>
     <caption><![CDATA[]]></caption>
   </image>
+    <image imageURL="images/IMG_5552.png"
+	thumbURL="images/IMG_5552.png"
+	linkURL="images/IMG_5552.png"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/IMG_5552.png">
+    <title><![CDATA[IMG_5552]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+    </image>
+    <image imageURL="images/IMG_5557.png"
+	thumbURL="images/IMG_5557.png"
+	linkURL="images/IMG_5557.png"
+	linkTarget="_blank"
+	sourcePath="/Users/wyattraich/Desktop/IMG_5557.png">
+    <title><![CDATA[IMG_5557]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
   <image imageURL="images/homeOutside.jpeg"
 	thumbURL="thumbs/homeOutside.jpeg"
 	linkURL="images/homeOutside.jpeg"
